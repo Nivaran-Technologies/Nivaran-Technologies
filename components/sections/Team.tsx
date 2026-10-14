@@ -13,12 +13,12 @@ const team = [
     },
     {
         name: "Sandeep Redkar",
-        role: "MD & Business Associate",
+        role: "Managing Director",
         image: "/team/sandeep.png"
     },
     {
         name: "Unmesh Nikumbh",
-        role: "Co-Founder & CTO",
+        role: "Chief Technical Officer",
         image: "/team/unmesh.png"
     },
 ];
