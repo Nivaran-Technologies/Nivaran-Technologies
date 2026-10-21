@@ -9,7 +9,7 @@ import { image } from "framer-motion/client";
 
 const projects = [
     {
-        title: "Phuket9",
+        title: "Real Estate",
         category: "Business Platform",
         description:
             "A modern business ecosystem focused on digital transformation and scalable operations.",
