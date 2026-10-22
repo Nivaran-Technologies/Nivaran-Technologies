@@ -97,10 +97,10 @@ export default function Footer() {
                         </h3>
                         <div className="mt-8 flex flex-col gap-3">
                             <a
-                                href="mailto:nivarantechnologies@gmail.com"
+                                href="mailto:hello@nivarantechnologies.com"
                                 className="group flex w-fit items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-primary outline-none focus-visible:text-primary"
                             >
-                                nivarantechnologies@gmail.com
+                                hello@nivarantechnologies.com
                                 <ArrowUpRight className="h-3.5 w-3.5 opacity-0 transition-all duration-300 ease-out group-hover:opacity-100 group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
                             </a>
                             <p className="text-sm font-medium text-muted-foreground">
