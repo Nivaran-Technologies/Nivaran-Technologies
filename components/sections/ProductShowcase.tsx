@@ -3,13 +3,12 @@ import Image from "next/image";
 import Container from "@/components/layout/Container";
 import SectionHeader from "@/components/ui/SectionHeader";
 import { ArrowUpRight } from "lucide-react";
-import Link from "next/link";
 import { motion } from "framer-motion";
-import { image } from "framer-motion/client";
+
 
 const projects = [
     {
-        title: "Real Estate",
+        title: "Real Estate Platform",
         category: "Business Platform",
         description:
             "A modern business ecosystem focused on digital transformation and scalable operations.",
@@ -95,14 +94,15 @@ export default function ProductShowcase() {
                                 </p>
 
                                 <div className="mt-8 flex-1">
-                                    <Link
+                                    <a
                                         href={project.href}
                                         target="_blank"
+                                        rel="noopener noreferrer"
                                         className="group/link inline-flex items-center gap-1.5 text-sm font-semibold text-primary outline-none transition-colors hover:text-accent focus-visible:text-accent"
                                     >
                                         View Demo
                                         <ArrowUpRight className="h-4 w-4 transition-transform duration-300 ease-out group-hover/link:-translate-y-0.5 group-hover/link:translate-x-0.5" />
-                                    </Link>
+                                    </a>
                                 </div>
 
                             </div>
