@@ -12,9 +12,26 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Nivaran Technologies",
+  metadataBase: new URL("https://nivarantechnologies.com"),
+  title: "Nivaran Technologies | AI-First Product Engineering",
   description:
-    "AI-first Product Engineering & Technology Consulting Company",
+    "Nivaran Technologies is a Mumbai-based product studio building AI-driven software, web and mobile apps for safety, finance, impact and everyday life.",
+  alternates: { canonical: "/" },
+  openGraph: {
+    title: "Nivaran Technologies",
+    description: "AI-first Product Engineering & Technology Consulting",
+    url: "https://nivarantechnologies.com",
+    siteName: "Nivaran Technologies",
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Nivaran Technologies" }],
+    locale: "en_IN",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Nivaran Technologies",
+    description: "AI-first Product Engineering & Technology Consulting",
+    images: ["/og-image.png"],
+  },
 };
 
 export default function RootLayout({
