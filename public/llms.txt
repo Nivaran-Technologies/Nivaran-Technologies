@@ -1,0 +1,24 @@
+# Nivaran Technologies
+
+> Nivaran Technologies is a Mumbai-based product studio, founded in 2026, that builds AI-driven software for safety, finance, social impact and everyday life. "Nivaran" is Sanskrit for "to resolve, to prevent".
+
+## About
+- Founder and CEO: Sagar Biswas
+- Co-Founder and CTO: Unmesh Nikumbh
+- Managing Director and Business Associate: Sandeep Redkar
+- Location: Mumbai, Maharashtra, India
+- Contact: hello@nivarantechnologies.com
+- Website: https://nivarantechnologies.com
+
+## Services
+- AI platforms and automation
+- Web and mobile application development
+- Design and user experience
+- Backend and cloud engineering
+- Systems integration and ongoing support
+
+## Featured work (live demos)
+- Suraksha Setu: public safety and safe-route platform
+- Sakhi Wealth AI: AI-powered financial discovery platform
+- Swar Shakti: government-linked marketplace supporting women entrepreneurs
+- Phuket9: business and investment platform
